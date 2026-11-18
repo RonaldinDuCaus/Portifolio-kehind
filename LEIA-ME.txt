@@ -1,0 +1,28 @@
+PORTFÓLIO DE GUILHERME KEHINDE MARTINS DE CAMPOS
+
+COMO ABRIR
+Abra index.html no navegador. Navegue usando o menu das sete páginas. Nenhuma instalação é necessária.
+
+ESTRUTURA
+index.html — apresentação
+areas-do-saber.html — áreas de conhecimento
+formacao-tecnica.html — competências e projetos de IoT
+curriculo.html — formação e competências
+memorias.html — registros a complementar
+jornada.html — trajetória
+contato.html — canais de contato
+css/style.css — layout responsivo
+js/main.js — menu em telas pequenas
+assets/imagens, assets/videos e assets/documentos — arquivos locais
+
+COMO ADICIONAR EVIDÊNCIAS
+Copie arquivos autorizados para as pastas correspondentes. Use caminhos relativos, por exemplo:
+<img src="assets/imagens/projeto.jpg" alt="Descrição">
+<video controls src="assets/videos/projeto.mp4"></video>
+<a href="assets/documentos/relatorio.pdf">Ver relatório</a>
+
+PENDÊNCIAS
+Adicionar fotos, vídeos e documentos reais; descrever projetos de IoT efetivamente realizados; verificar se a divulgação dos contatos de um estudante de 17 anos foi autorizada; testar em celular e computador.
+
+EXPLICAÇÃO
+HTML semântico define a estrutura; CSS utiliza Grid, Flexbox e media queries; JavaScript controla o menu e o aria-expanded.
